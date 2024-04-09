@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sistema-teste.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\sistema-teste.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\all.css",
+      "PackagePath": "staticwebassets\\css\\all.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\brands.css",
+      "PackagePath": "staticwebassets\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\regular.css",
+      "PackagePath": "staticwebassets\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\solid.css",
+      "PackagePath": "staticwebassets\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\imagens\\logo.png.png",
+      "PackagePath": "staticwebassets\\imagens\\logo.png.png"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\CadastroAluno.js",
+      "PackagePath": "staticwebassets\\js\\CadastroAluno.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\all.js",
+      "PackagePath": "staticwebassets\\js\\all.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\brands.js",
+      "PackagePath": "staticwebassets\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\cadastro.js",
+      "PackagePath": "staticwebassets\\js\\cadastro.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\input.js",
+      "PackagePath": "staticwebassets\\js\\input.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\regular.js",
+      "PackagePath": "staticwebassets\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\solid.js",
+      "PackagePath": "staticwebassets\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\projetos\\sistema-teste\\sistema-teste\\sistema-teste.UI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.sistema-teste.UI.props",
+      "PackagePath": "build\\sistema-teste.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.sistema-teste.UI.props",
+      "PackagePath": "buildMultiTargeting\\sistema-teste.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.sistema-teste.UI.props",
+      "PackagePath": "buildTransitive\\sistema-teste.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.sistema-teste.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

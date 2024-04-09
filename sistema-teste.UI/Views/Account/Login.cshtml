@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+@model LoginViewModel;
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <h1>Tela de Login</h1>
+        </div>
+        <div class="col">
+            @if (TempData["msg"] != null)
+            {
+                <label class="alert alert-success">@TempData["msg"]</label>
+            }
+            <form asp-controller="Account" asp-action="Login" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div><br />
+                <div class="col-md-12">
+                    <label for="email" class="col-sm-2 col-form-label">E-mail</label>
+                    <div class="col-sm-12">
+                        <input type="email" class="form-control" asp-for="UserName" placeholder="Digite seu email">
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <label for="senha" class="col-sm-2 col-form-label">Senha</label>
+                    <div class="col-sm-12">
+                        <input type="password" class="form-control" asp-for="Password" placeholder="Digite sua senha">
+                    </div>
+                </div>
+                <br />
+                <div class="d-grid gap-2">
+                    <button type="submit" class="btn btn-primary">Entrar</button>
+                    <div />
+                    <br />
+                    @if (!string.IsNullOrEmpty(ViewBag.MsgError))
+                    {
+                        <label class="alert alert-danger">@ViewBag.MsgError</label>
+                    }
+
+            </form>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,53 @@
+﻿@model sistema_teste.UI.Models.Account.AlunosViewModel
+
+@{
+    ViewData["Title"] = "CadastroAlunos";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="CadastroAlunos" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label class="control-label">Foto</label>
+                    <input type="file" asp-for="Foto" class="form-control" />
+                    <span asp-validation-for="Foto" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label class="control-label">Usuários</label>
+                    <select asp-for="UserId" class="form-select" asp-items="@ViewBag.Usuario">
+                        <option selected value="0">Selecione o usuário</option>
+                    </select>
+                    <span asp-validation-for="UserId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TipoPlanoId" class="control-label"></label>
+                    <select asp-for="TipoPlanoId" class="form-select" asp-items="@ViewBag.TipoPlano">
+                        <option selected value="0">Selecione o Plano</option>
+                    </select>
+                    <span asp-validation-for="TipoPlanoId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TipoPagamentoId" class="control-label"></label>
+                    <select asp-for="TipoPagamentoId" class="form-select" asp-items="@ViewBag.TipoPagamentoPc">
+                        <option selected value="0">Selecione o Pagamento</option>
+                    </select>
+                    <span asp-validation-for="TipoPagamentoId" class="text-danger"></span>
+                </div>
+                <br />
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary">Cadastrar</button>
+                </div>
+
+
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<div>
+    <a class="btn bnt-dark" asp-action="Index">Voltar</a>
+</div>

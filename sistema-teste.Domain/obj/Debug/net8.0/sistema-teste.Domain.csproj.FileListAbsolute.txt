@@ -1,0 +1,12 @@
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\bin\Debug\net8.0\sistema-teste.Domain.deps.json
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\bin\Debug\net8.0\sistema-teste.Domain.dll
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\bin\Debug\net8.0\sistema-teste.Domain.pdb
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\obj\Debug\net8.0\sistema-teste.Domain.csproj.AssemblyReference.cache
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\obj\Debug\net8.0\sistema-teste.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\obj\Debug\net8.0\sistema-teste.Domain.AssemblyInfoInputs.cache
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\obj\Debug\net8.0\sistema-teste.Domain.AssemblyInfo.cs
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\obj\Debug\net8.0\sistema-teste.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\obj\Debug\net8.0\sistema-teste.Domain.dll
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\obj\Debug\net8.0\refint\sistema-teste.Domain.dll
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\obj\Debug\net8.0\sistema-teste.Domain.pdb
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Domain\obj\Debug\net8.0\ref\sistema-teste.Domain.dll

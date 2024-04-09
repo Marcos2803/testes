@@ -1,0 +1,17 @@
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\bin\Debug\net8.0\sistema-teste.Data.deps.json
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\bin\Debug\net8.0\sistema-teste.Data.runtimeconfig.json
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\bin\Debug\net8.0\sistema-teste.Data.dll
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\bin\Debug\net8.0\sistema-teste.Data.pdb
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\bin\Debug\net8.0\sistema-teste.Domain.dll
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\bin\Debug\net8.0\sistema-teste.Domain.pdb
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\sistema-teste.Data.csproj.AssemblyReference.cache
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\sistema-teste.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\sistema-teste.Data.AssemblyInfoInputs.cache
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\sistema-teste.Data.AssemblyInfo.cs
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\sistema-teste.Data.csproj.CoreCompileInputs.cache
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\sistema-teste.Data.dll
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\refint\sistema-teste.Data.dll
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\sistema-teste.Data.pdb
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\sistema-teste.Data.genruntimeconfig.cache
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\ref\sistema-teste.Data.dll
+C:\projetos\sistema-teste\sistema-teste\sistema-teste.Data\obj\Debug\net8.0\sistema-.80D0A6D2.Up2Date
